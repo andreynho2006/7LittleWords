@@ -1,2 +1,2 @@
 # 7LittleWords
-# a letter game written entirely in code, without storyboard
+## a letter game written entirely in code, without storyboard
